@@ -7,8 +7,9 @@
     <li>☕ <strong>I’m learning Java.</strong></li>
     <li>🧠 <strong>I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</strong></li>
     <li>🤝 <strong>I am ready to collaborate on an interesting project.</strong></li>
-    ![IkaMusumeGIF](https://github.com/JustSashaUP/JustSashaUP/assets/94720780/74cf7765-5c46-4d66-9dbf-cd1e1ddb0a87)
 </ul>
+
+   ![IkaMusumeGIF](https://github.com/JustSashaUP/JustSashaUP/assets/94720780/74cf7765-5c46-4d66-9dbf-cd1e1ddb0a87)
 
 ## Languages and Tools
 <p align="left">
