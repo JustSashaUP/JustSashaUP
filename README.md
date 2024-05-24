@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 <h3 align="center">Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine</h3>
 
+-🧑‍💻 I’m currently writing code.
+-☕ I’m learning java.
+-🧠 I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.
+-🤝 I am ready to collaborate on an interesting project.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/justsashaup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="justsashaup" height="30" width="40" /></a>
