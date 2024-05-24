@@ -12,7 +12,7 @@
     </ul>
   </div>
   <div style="flex: 1;">
-    <img src="https://github.com/JustSashaUP/JustSashaUP/blob/main/assets/94720780/faa9d8eb-6cac-4baa-ad10-868fe1b90ebb.gif" alt="IkaMusumeGIF" style="width: 100%; max-width: 300px;">
+    <img src="https://github.com/JustSashaUP/JustSashaUP/blob/main/assets/94720780/faa9d8eb-6cac-4baa-ad10-868fe1b90ebb.gif" alt="IkaMusumeGIF">
   </div>
 </div>
 
