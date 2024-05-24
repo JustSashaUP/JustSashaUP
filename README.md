@@ -1,7 +1,7 @@
-<h1>Hi<img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋"/>, I'm Sasha</h1>
+<h1>Hi<img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋" style="max-width:50px"/>, I'm Sasha</h1>
 <h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine 🌍</h3>
 
-## About Me 🙂
+## About Me 🙂ma
 <ul>
     <li>🧑‍💻 <strong>I’m currently writing code.</strong></li>
     <li>☕ <strong>I’m learning Java.</strong></li>
