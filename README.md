@@ -1,5 +1,4 @@
-<h1>Hi ![HelloWaveGIF](https://github.com/JustSashaUP/JustSashaUP/assets/94720780/d4dd0a4a-dff7-42fc-ab47-153c025793d8)
-, I'm Sasha</h1>
+<h1>Hi, I'm Sasha</h1>
 <h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine 🌍</h3>
 
 ## About Me 🙂
