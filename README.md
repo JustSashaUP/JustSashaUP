@@ -3,12 +3,7 @@
 
 ## About Me
 
-ul li::marker {
-  color: red;
-  font-size: 1.5em;
-}
-
-<ul>
+<ul style="color: red; font-size: 1.5em;">
 <il>🧑‍💻 I’m currently writing code.</il>
 <il>☕ I’m learning java.</il>
 <il>🧠 I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</il>
