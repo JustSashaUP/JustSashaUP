@@ -3,11 +3,11 @@
 
 ## About Me
 
-<ul style="color: red; font-size: 1.5em;">
-<li>🧑‍💻 I’m currently writing code.</li>
-<li>☕ I’m learning java.</li>
-<li>🧠 I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</li>
-<li>🤝 I am ready to collaborate on an interesting project.</li>
+<ul>
+<li>🧑‍💻 **I’m currently writing code.**</li>
+<li>☕ **I’m learning java.**</li>
+<li>🧠 **I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.**</li>
+<li>🤝 **I am ready to collaborate on an interesting project.**</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
