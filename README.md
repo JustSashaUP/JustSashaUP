@@ -2,19 +2,15 @@
 <h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine 🌍</h3>
 
 ## About Me
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+| <div style="display: flex; align-items: center;"> <div style="flex: 1;">
     <ul>
-      <li>🧑‍💻 <strong>I’m currently writing code.</strong></li>
-      <li>☕ <strong>I’m learning Java.</strong></li>
-      <li>🧠 <strong>I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</strong></li>
-      <li>🤝 <strong>I am ready to collaborate on an interesting project.</strong></li>
+        <li>🧑‍💻 <strong>I’m currently writing code.</strong></li>
+        <li>☕ <strong>I’m learning Java.</strong></li>
+        <li>🧠 <strong>I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</strong></li>
+        <li>🤝 <strong>I am ready to collaborate on an interesting project.</strong></li>
     </ul>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/JustSashaUP/JustSashaUP/blob/main/assets/94720780/faa9d8eb-6cac-4baa-ad10-868fe1b90ebb.gif" alt="IkaMusumeGIF">
-  </div>
-</div>
+</div> <div style="flex: 1;"> <img src="https://github.com/JustSashaUP/JustSashaUP/blob/main/assets/94720780/faa9d8eb-6cac-4baa-ad10-868fe1b90ebb.gif" alt="IkaMusumeGIF" width="300"> </div> </div> |
+|---|
 
 ## Languages and Tools
 <p align="left">
