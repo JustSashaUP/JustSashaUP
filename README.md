@@ -1,15 +1,16 @@
-<h1>Hi<img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋" style="max-width:50px"/>, I'm Sasha</h1>
+<h1>Hi <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋" style="width:30px"/> , I'm Sasha</h1>
 <h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine 🌍</h3>
 
-## About Me 🙂ma
+## About Me 🙂
+<div>
 <ul>
     <li>🧑‍💻 <strong>I’m currently writing code.</strong></li>
     <li>☕ <strong>I’m learning Java.</strong></li>
     <li>🧠 <strong>I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</strong></li>
     <li>🤝 <strong>I am ready to collaborate on an interesting project.</strong></li>
 </ul>
-
-   ![IkaMusumeGIF](https://github.com/JustSashaUP/JustSashaUP/assets/94720780/74cf7765-5c46-4d66-9dbf-cd1e1ddb0a87)
+<img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="🧑‍💻" style="width:300px;"/>
+</div>
 
 ## Languages and Tools 🚀
 <p align="left">
