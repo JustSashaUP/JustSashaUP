@@ -1,10 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sasha</h1>
 <h3 align="center">Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine</h3>
 
--🧑‍💻 I’m currently writing code.
--☕ I’m learning java.
--🧠 I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.
--🤝 I am ready to collaborate on an interesting project.
+## About Me
+
+ul li::marker {
+  color: red;
+  font-size: 1.5em;
+}
+
+<ul>
+<il>🧑‍💻 I’m currently writing code.</il>
+<il>☕ I’m learning java.</il>
+<il>🧠 I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</il>
+<il>🤝 I am ready to collaborate on an interesting project.</il>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
