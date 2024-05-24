@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Sasha</h1>
-<h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine</h3>
+<h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine.</h3>
 
 ## About Me
 
