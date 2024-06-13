@@ -1,6 +1,6 @@
 <div>
 <h1>Hi <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋" style="width:30px"/> , I'm Sasha</h1>
-<h3>Hello! My name is Sasha, i'm passionate Java Software Engineer from Ukraine 🌍</h3>
+<h3>Hello! My name is Sasha, i'm passionate Software Engineer from Ukraine 🌍</h3>
 </div>
 
 ## About Me 🙂
