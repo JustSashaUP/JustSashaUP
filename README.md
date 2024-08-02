@@ -10,7 +10,6 @@
     <li>☕ <strong>I’m learning Java.</strong></li>
     <li>🧠 <strong>I'm diving deep into the world of software engineering, exploring new horizons and expanding my expertise.</strong></li>
     <li>⚙️ <strong>My last project: </strong><a href="https://github.com/JustSashaUP/bank-managment-system">bank-managment-system</a></li>
-    <li>🤝 <strong>I am ready to collaborate on an interesting project.</strong></li>
 </ul>
 <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="🧑‍💻" style="width:300px;"/>
 </div>
