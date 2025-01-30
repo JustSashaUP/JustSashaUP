@@ -8,7 +8,7 @@
 <ul>
     <li>🧑‍💻 <strong>I’m currently writing code.</strong></li>
     <li>☕ <strong>I’m learning Java.</strong></li>
-    <li>⚙️ <strong>My last student project: </strong><a href="https://github.com/JustSashaUP/bank-managment-app">bank-managment-app</a></li>
+    <li>⚙️ <strong>Last project: </strong><a href="https://github.com/JustSashaUP/MoneyLogic">"MoneyLogic" finance-tracker</a></li>
 </ul>
 <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="🧑‍💻" style="width:300px;"/>
 </div>
