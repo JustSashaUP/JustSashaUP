@@ -28,3 +28,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 </p>
+
+##
+<div align="center">
+    <a href="https://leetcode.com/JustSashaUP">
+        <img src="https://leetcard.jacoblin.cool/JustSashaUP?ext=activity&theme=wtf" alt="Leetcode Stats"></img>
+    </a>
+</div>
