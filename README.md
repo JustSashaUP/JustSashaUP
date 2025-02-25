@@ -10,7 +10,9 @@
     <li><strong>I’m learning Java☕.</strong></li>
     <li><strong>Last project⚙️: </strong><a href="https://github.com/JustSashaUP/MoneyLogic">"MoneyLogic" finance-tracker</a></li>
 </ul>
-<img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="coding animation" style="width:300px;"/>
+    <div align="center">
+        <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="coding animation" style="width:600px;"/>
+    </div>
 </div>
 
 ## Languages and Tools 🚀
@@ -34,6 +36,6 @@
 ##
 <div align="center">
     <a href="https://leetcode.com/JustSashaUP">
-        <img src="https://leetcard.jacoblin.cool/JustSashaUP?ext=activity&theme=wtf" alt="Leetcode Stats"></img>
+        <img src="https://leetcard.jacoblin.cool/JustSashaUP?ext=activity&theme=wtf" alt="Leetcode Stats" style="width:600px"></img>
     </a>
 </div>
