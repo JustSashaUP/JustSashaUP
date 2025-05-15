@@ -10,9 +10,6 @@
     <li><strong>I’m learning Java☕.</strong></li>
     <li><strong>Last project⚙️: </strong><a href="https://github.com/JustSashaUP/MoneyLogic">"MoneyLogic" finance-tracker</a></li>
 </ul>
-    <div align="center">
-        <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/85ce09a9-6e17-4710-83f6-9bf76048916d" alt="coding animation" style="width:600px;"/>
-    </div>
 </div>
 
 ## Languages and Tools 🚀
