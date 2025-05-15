@@ -6,8 +6,8 @@
 ## About Me 🙂
 <div>
 <ul>
-    <li><strong>I’m currently writing code🧑‍💻.</strong></li>
-    <li><strong>I’m learning Java☕.</strong></li>
+    <li><strong>I'm currently writing code🧑‍💻.</strong></li>
+    <li><strong>I'm using Java☕.</strong></li>
     <li><strong>Last project⚙️: </strong><a href="https://github.com/JustSashaUP/MoneyLogic">"MoneyLogic" finance-tracker</a></li>
 </ul>
 </div>
