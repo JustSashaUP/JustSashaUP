@@ -6,8 +6,9 @@
 ## About Me 🙂
 <div>
 <ul>
-    <li><strong>I'm currently writing code🧑‍💻.</strong></li>
-    <li><strong>I'm using Java☕.</strong></li>
+    <li><strong>☕ Java is my primary language</strong></li>
+    <li><strong>🛠️ Experienced in backend development and working with databases</strong></li>
+    <li><strong>📈 Passionate about building smart solutions for real-life problems</strong></li>
     <li><strong>Last project⚙️: </strong><a href="https://github.com/JustSashaUP/MoneyLogic">"MoneyLogic" finance-tracker</a></li>
 </ul>
 </div>
