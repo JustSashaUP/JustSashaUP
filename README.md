@@ -1,5 +1,5 @@
 <div>
-<h1>Hi <img src="https://github.com/JustSashaUP/JustSashaUP/assets/94720780/e92e4600-5346-4a56-aaac-9968ed69c5b8" alt="👋" style="width:30px"/> , I'm Sasha</h1>
+<h1>Hi <img src="https://media1.tenor.com/m/EgBho6VyZQ4AAAAC/hi.gif" alt="👋" style="width:30px"/> , I'm Sasha</h1>
 <h3>I'm Software Engineer</h3>
 </div>
 
