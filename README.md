@@ -3,7 +3,7 @@
 <h3>I'm Software Engineer</h3>
 </div>
 
-## About Me 🙂
+## About Me
 <div>
 <ul>
     <li><strong>☕ Java is my primary language</strong></li>
