@@ -8,7 +8,6 @@
 <ul>
     <li><strong>☕ Java is my primary language</strong></li>
     <li><strong>📈 Passionate about building science-based solutions for real-life problems</strong></li>
-    <li><strong>Last project⚙️: </strong><a href="https://github.com/JustSashaUP/oauth2-jwt">OAuth 2.0 (OIDC) && JWT implementation</a></li>
 </ul>
 </div>
 
